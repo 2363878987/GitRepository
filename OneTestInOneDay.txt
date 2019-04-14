@@ -1,3 +1,10 @@
 2019.4.14
 start 'git' study now
 it is like linux i think
+
+--update test 01
+use 'git stuts'
+use 'git diff'
+
+Git is a distributed version control system.
+Git is free software.
